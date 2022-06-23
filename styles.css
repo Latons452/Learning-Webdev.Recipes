@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+.contenido{
+    text-align: center;
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    border-radius: 3em;
+}
+
+.contenido ul{
+    display: inline-block;
+    text-align: left;
+}
+h1, h2 {
+    text-align: center;
+}
+
+
