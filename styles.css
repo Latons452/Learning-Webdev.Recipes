@@ -10,12 +10,19 @@ body{
     border-radius: 3em;
 }
 
-.contenido ul{
+.contenido ul, ol{
     display: inline-block;
     text-align: left;
 }
 h1, h2 {
     text-align: center;
 }
-
-
+img{
+    margin:auto;
+    border-radius: 40px;
+    width: 50vh;
+    height: auto;
+}
+#Return{
+    display: block;
+}
